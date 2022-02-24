@@ -1,0 +1,16 @@
+{  
+    "SLUG_TO_PAGE": {
+        "":"e2f9063fb7c14c44a14547e05e061fc1",
+        "projects": "42b197a00d7e45de8cdc9cc85e860a6d",
+        "artworks": "519b28ed84b0441389e565af55916452",
+        "blog": "10a42cf6dd404da18ce2285fe6ff44e2",
+        "resume": "a7ef8a58ef33401ab9bfb9178fd909e0"
+        
+    },
+  
+    "PAGE_TITLE" : "Shashank Raut Desai", 
+    "PAGE_DESCRIPTION" : "I am a final year student at IIT Bombay.",
+    
+    "GOOGLE_FONT" : "Rubik",
+    "CUSTOM_SCRIPT" : "<script></script>"
+}
